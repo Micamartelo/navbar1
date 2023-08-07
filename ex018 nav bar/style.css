@@ -1,0 +1,29 @@
+.principal {
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #666;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 14px 16px;
+    color: wheat;
+    text-align: center;
+    text-decoration: none;
+  }
+
+li a:hover {
+    background-color: black;
+}
